@@ -104,13 +104,16 @@ p {
     font-size: 48px;
     line-height: 1.5;
   }
-
-  .app {
-    font-size: 20px;
-    text-align: center;
+  h2 {
+    font-size: 36px;
   }
-
-  p {
+  .app {
     text-align: center;
+    margin-top: 20px;
+  }
+  .app-links {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
